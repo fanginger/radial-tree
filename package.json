@@ -1,0 +1,14 @@
+{
+  "name": "@gingerfan/radial-tidy-tree",
+  "main": "6ae906802a585669@208.js",
+  "version": "208.0.0",
+  "homepage": "https://observablehq.com/@gingerfan/radial-tidy-tree",
+  "author": {
+    "name": "范植荃",
+    "url": "https://observablehq.com/@gingerfan"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
